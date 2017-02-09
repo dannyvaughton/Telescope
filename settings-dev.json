@@ -1,0 +1,125 @@
+{
+  "public": {
+    "title": "Smarthosts",
+    "fullTitle": "Smarthosts – Vacation Rental Forum & Community for Hosts",
+    "tagline":"Where the world's smartest vacation rental pros hangout.",
+    "description":"Smarthosts is a vacation rental forum & community for rental owners & Airbnb hosts. Share & learn about news, vacation rental marketing, Airbnb host tips & more",
+    "siteUrl": "http://localhost:3000/",
+    "siteImage": "https://www.smarthosts.org/img/icon256.png",
+    "siteEmail": "danny@smarthosts.org",
+    "logoUrl": "https://www.smarthosts.org/img/logo-white-domain.png",
+    "logoHeight": "71",
+    "logoWidth": "300",
+    "thumbnailWidth": "320",
+    "thumbnailHeight": "200",
+    "faviconUrl": "/img/fav.png",
+    "accentColor": "#1f8ceb",
+    "secondaryColor": "#1f8ceb",
+
+    "categoriesBehavior": "multiple",
+
+    "requirePostsApproval":false,
+    "requireViewInvite":false,
+    "requirePostInvite":false,
+    "enableNewsletter":false,
+    "autoSubscribe":false,
+    "emailNotifications":true,
+    "postInterval": 20,
+    "RSSLinksPointTo": "link",
+    "commentInterval": 20,
+    "maxPostsPerDay": 10,
+    "startInvitesCount": 5,
+    "postsPerPage": 17,
+    "useSegment": false,
+    "segmentWriteKey": "ISszv3oe2mtnoqy7gSPRx7yys3BoBziz",
+    "scoreUpdateInterval": "30",
+
+    "language": "en",
+    "locale": "en",
+
+    "twitterAccount": "smarthostsorg",
+    "twitterPage": "http://www.twitter.com/smarthostsorg",
+    "facebookPage": "http://facebook.com/rentivo",
+
+    "googleAnalyticsId":"",
+    "embedlyKey":"18d77b79511740e891e8dfe65bc598e4",
+
+    "analytics_api_key": "ISszv3oe2mtnoqy7gSPRx7yys3BoBziz",
+    "analytics_localhost_active":true,
+    "intercom_app_id": "mrgwnp1u",
+    "intercom": {
+      "id": "vli0lkvv",
+      "allowAnonymous": true
+    },
+
+    "gamificationShowGetStartedTutorial": true,
+    "gamificationKarmaOnFinishTutorial": 1,
+    "gamificationKarmaMultiplier": 10,
+
+    "onesignal": {
+      "appId": "783777b9-b851-44da-960f-2526b9975443",
+      "restApiKey": "YmQ4OTg5ODQtZmI2Mi00NDNkLWJiNTMtNjBkYmZkYmJjMGE0",
+      "myPlayerId": "a5afcecf-2c62-414b-aff2-b1d77b7039cd",
+      "subdomainName": "smarthosts",
+      "safariWebId": "web.onesignal.auto.5e2915a8-1095-4900-b2af-7b25bf2970dd",
+      "notifyButtonEnable": true,
+      "addSegments": true,
+      "enableCommentNotifications": true
+    },
+    "gamification": {
+
+    },
+    "cloudinaryCloudName": "rentivo",
+    "cloudinaryPresets": {
+      "avatar": "ctpzkj06",
+      "posts":  "ctpzkj06"
+    }
+
+},
+
+  "intercom": {
+    "apikey": "170541775ab65d12eb51621dfcb7536c85359147",
+    "secret": "VEK_GTLEHjOPk8eIQgSA9osoEi2z-ersz-Imqygq"
+  },
+
+  "private": {
+    "adminKey": "1234567890",
+    "oAuth": {
+      "facebook": {
+        "appId": "1860563930837606",
+        "secret": "556b5ba41e129cb0335c64b764db469d"
+      },
+      "google": {
+        "clientId": "1086972402687-7bk63uk37sqscedc02otdqnejig7k9f8.apps.googleusercontent.com",
+        "secret": "Acg8oza3cRo8VP_j1-_vai6w"
+      },
+      "twitter": {
+        "consumerKey": "s0k0xP6icfoWiuABWkzssXZTX",
+        "secret": "N5i7bnU2bT1NJY3mTiFfUBXE228hPhXlLW8xKgx66OwhC1TLAF"
+      }
+    }
+  },
+
+  "groups": {
+    "curators": {
+      "name": "Curator",
+      "karma": 50
+    }
+  },
+
+
+  "oneSignal": {
+      "apiKey": "ODVjMDFmMTMtOWEwNi00ODJiLWIyZjctOWFhYjk4Y2JhZWZi",
+      "appId": "7bdc00a7-9cb9-4b72-909e-df668e70f5af"
+  },
+
+
+  "defaultEmail": "noreply@smarthosts.org",
+  "mailUrl": "smtp://danny%40www.smarthosts.org:sevenlittleducks@smtp.mailgun.org:587/",
+  "scoreUpdateInterval": "30",
+
+  "mailChimpAPIKey": "47dd31099fa85103ff1ea1eebb5af4bd-us5",
+  "mailChimpListId": "1d3b9af37c"
+
+
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Smarthosts",
+  "short_name": "Smarthosts",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "80311266536"
+}
